@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1580250964 source:/home/yilmaz/Projects/Easy Pong/main.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	<sstream>
+	<SFML/Audio.hpp>
+
